@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vicky Anand</h1>
 
-![MasterHead](https://raw.githubusercontent.com/itsvikcyanand/main/cover.jpg)
+<!-- ![MasterHead](https://raw.githubusercontent.com/itsvikcyanand/main/cover.jpg) -->
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Vicky+Anand!;Learning+MERN+Stack+Development...👨🏻‍💻;" style="width: 100%;">
 
