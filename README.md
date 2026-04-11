@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vicky Anand</h1>
 
-<!-- Smooth yellow themed typing banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFC800&size=20&center=true&vCenter=true&width=1000&lines=Hey!+I'm+Vicky+Anand+✨;Frontend+Developer+%7C+React+%7C+Next.js+%7C+TypeScript;Pixel-Perfect+UI+%7C+Smooth+Animations+%7C+Performance+First;Building+Modern+Web+Experiences+That+Feel+Premium+⚡" style="width: 100%;">
+<!-- Smooth themed typing banner -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFC800&size=20&center=true&vCenter=true&width=1000&lines=Hey!+I'm+Vicky+Anand+✨;Full+Stack+Engineer+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Multi-Tenant+SaaS+%7C+Conversational+AI+%7C+RAG+Systems;Building+Scalable+Production+Systems+That+Deliver+⚡" style="width: 100%;">
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<h3 align="center">⚡ Frontend Developer | UI Engineer | React & Next.js Specialist</h3>
+<h3 align="center">⚡ Full Stack Engineer | SaaS Architect | AI-Integrated Systems</h3>
 <h3 align="center">
-I craft modern, responsive, and performance-focused user interfaces with attention to detail.  
-I love turning designs into clean, scalable components and building smooth interactions that feel premium.
+3+ years building production SaaS platforms on Next.js, Node.js, PostgreSQL, and TypeScript.<br>
+Architected a multi-tenant conversational AI platform (15K+ LOC) with hybrid RAG retrieval, pgvector semantic search, and omni-channel messaging.<br>
+Led a 5-person team delivering scalable systems serving 50K+ daily users.
 </h3>
 
 <p align="center">
@@ -23,41 +24,86 @@ I love turning designs into clean, scalable components and building smooth inter
 
 ---
 
-## ✨ Frontend Focus (What I do best)
-✅ **Frontend Engineering** for real-world products  
-✅ **React + Next.js UI Architecture** (Reusable, scalable components)  
-✅ **Pixel-perfect UI Implementation** from Figma/design references  
-✅ **Smooth animations & interactions** using **GSAP** and **Framer Motion**  
-✅ **Fast, responsive layouts** using **Tailwind CSS, MUI, Chakra UI**  
-✅ **API integration & state management** with clean patterns (Redux Toolkit, Hooks)  
-✅ SEO-friendly pages using **SSR/SSG** in Next.js  
-✅ Clean code, best practices, and maintainable structure
+## ⚡ What I Do
+
+✅ **Full Stack Engineering** — end-to-end ownership from schema design to production deployment  
+✅ **Multi-Tenant SaaS Architecture** — row-level tenant isolation, subscription-based usage limits, RBAC  
+✅ **AI-Integrated Systems** — RAG pipelines (keyword + vector + hybrid retrieval), OpenAI & Anthropic API integration  
+✅ **Omni-Channel Messaging** — WhatsApp, Telegram, Instagram, Messenger via unified adapter interfaces  
+✅ **Voice Integration** — Twilio-powered inbound/outbound calling with speech-to-text & TwiML loops  
+✅ **Frontend Engineering** — pixel-perfect UI, GSAP & Framer Motion animations, SSR/SSG/ISR with Next.js  
+✅ **API Design & Real-Time Systems** — RESTful APIs, WebSockets, SSE, JWT auth, webhook systems  
+✅ **Cloud & DevOps** — Docker, Azure (App Service, Blob Storage, Container Apps), Vercel, Redis, CI/CD
 
 ---
 
 ## 🔥 Currently Working On
-- 🚀 Building **animation-heavy landing pages & microsites** with **Next.js + GSAP**
-- 🎯 Improving **performance, accessibility (a11y)** and scalable UI patterns
-- 🧠 Exploring **AI-driven UI experiences** (chat/voice integration)
+
+- 🚀 **Zarvis AI** — Multi-tenant conversational AI SaaS platform with hybrid RAG, voice calling, and workflow runtime
+- 🎯 Improving **performance, accessibility (a11y)** and scalable UI/backend patterns
+- 🧠 Exploring **AI-driven experiences** — chat, voice, and workflow automation
 
 ---
 
-## 🌐 Portfolio & Contact
-- 👨‍💻 Portfolio: **https://itsvickyanand.github.io/**
-- 📫 Email: **vickyanandtoprock@gmail.com**
-- 💬 Ask me about: **React, Next.js, TypeScript, Tailwind, MUI, UI Architecture, Animations, API Integration**
+## 💼 Work Experience
+
+### R-CENTRIC PVT. LTD. | Senior Full Stack Developer
+📍 Bengaluru, India | Feb 2025 – Present
+- Architected **Zarvis AI**, a multi-tenant conversational AI SaaS (15K+ lines, 100+ files) with Next.js 14, PostgreSQL, Prisma, Docker & Redis
+- Designed a **hybrid RAG retrieval engine** combining keyword search, pgvector semantic search, and reciprocal-rank fusion
+- Implemented **Twilio-powered voice calling** (inbound + outbound) with speech-to-text and TwiML conversation loops
+- Built a **visual workflow runtime** with versioned publish/rollback, graph validation, and full audit trail
+- Led a **5-person engineering team**; reduced cross-project UI development time by ~30%
+
+### ANANDPUSHP TECHNOLOGIES PVT. LTD. | Next.js Developer
+📍 Kolkata, India | Feb 2024 – Jan 2025
+- Built SEO-optimized pages on **JobsInEducation** (50K+ daily users) using Next.js SSR/SSG — achieved **90+ Lighthouse scores**
+- Reduced **Largest Contentful Paint by ~40%** across 12 high-traffic pages
+- Implemented SWR-based data-fetching layer, cutting redundant API calls by **~50%**
+
+### EFAARMS SOLUTION | React Developer Intern
+📍 Bengaluru, India | Aug 2023 – Jan 2024
+- Built **15+ reusable components** adopted across 4 product modules
+
+### ITECHNOSOL INC. | Node.js Developer Intern
+📍 Vadodara, India | Feb 2023 – Aug 2023
+- Designed **10+ RESTful API endpoints** with Express.js, JWT auth, and role-based middleware
+- Built automated email system handling **1,000+ transactional emails/day**
 
 ---
 
-## 🧩 Featured Work (Frontend Highlight)
-### 🎬 Animation-Heavy Landing Pages & Microsites
-I’ve designed and developed multiple interactive, animation-rich experiences using:
+## 🧩 Featured Projects
 
-✅ **Next.js, React, Tailwind CSS**  
-✅ **GSAP, Framer Motion**  
-✅ Responsive UI + smooth transitions + modern UI layouts
+### 🤖 Zarvis AI — Multi-Tenant Conversational AI Platform
+`Next.js 14` `PostgreSQL` `pgvector` `Prisma` `Docker` `Redis` `Twilio` `OpenAI`
 
-**Selected live projects:**
+Production-grade multi-tenant SaaS with row-level tenant isolation, hybrid RAG retrieval (keyword + vector + hybrid via reciprocal-rank fusion), Twilio voice calling, multi-channel gateway (WhatsApp/Instagram/Messenger/Telegram), media asset library, workflow runtime with graph validation, and SSE real-time dashboard. **15K+ lines, full test suite.**
+
+🔗 [GitHub](https://github.com/itsvickyanand)
+
+### 📦 AMS — Asset Management System
+`Next.js` `Node.js` `PostgreSQL` `Firebase Auth` `Azure`
+
+Full-stack asset tracking platform with Firebase Auth, Sequelize ORM, Azure Blob Storage for document uploads, 3-tier RBAC with protected API routes. Deployed on Azure App Service + Vercel.
+
+🔗 [GitHub](https://github.com/itsvickyanand)
+
+### 📄 OCR Web Application
+`Azure Container Apps` `Azure AI Vision`
+
+Document OCR application deployed on Azure Container Apps, leveraging Azure AI Vision services for text extraction from uploaded images and scanned documents.
+
+### 🏫 Agorae — School Management Platform
+`React` `Node.js` `PostgreSQL` | **Team Lead** | **15+ Schools**
+
+Multi-tenant school management system deployed across 15+ institutions in PAN India, managing student records, attendance, fee collection, and academic scheduling for **5,000+ users** with role-based dashboards.
+
+---
+
+## 🎬 Animation & Frontend Showcase
+
+Selected live projects showcasing animation-heavy, responsive UI work:
+
 - 🔗 [Alba Destination Microsite](https://alba-destination-microsite-rust.vercel.app) — Next.js, GSAP, Framer Motion  
 - 🔗 [Alba Construction Update](https://alba-construction-update-eight.vercel.app) — Next.js, React, GSAP  
 - 🔗 [Kanyon](https://kanyon.vercel.app) — Next.js, GSAP, Framer Motion  
@@ -67,12 +113,12 @@ I’ve designed and developed multiple interactive, animation-rich experiences u
 
 ---
 
-## 🧪 Notable Clones (Early Projects)
-- 🚗 **Revv Self Drive (India)** — HTML, CSS, JavaScript  
-  🔗 https://radiant-pasca-c8b0ba.netlify.app
+## 🌐 Portfolio & Contact
 
-- 🏡 **Tripvillas Clone** — React, JavaScript, Chakra UI  
-  🔗 https://vocal-pavlova-b43e27.netlify.app/
+- 👨‍💻 Portfolio: **https://itsvickyanand.github.io/**
+- 📫 Email: **vickyanandtoprock@gmail.com**
+- 📱 Phone: **+91-9739941546**
+- 💬 Ask me about: **Next.js, Node.js, TypeScript, PostgreSQL, RAG Systems, Multi-Tenant SaaS, Twilio, Docker, AI Integration**
 
 ---
 
@@ -85,7 +131,7 @@ I’ve designed and developed multiple interactive, animation-rich experiences u
 
 ---
 
-## 🛠️ Tech Stack (Frontend-Centric)
+## 🛠️ Tech Stack
 
 ### 🎨 Frontend
 <p align="left">
@@ -107,21 +153,56 @@ I’ve designed and developed multiple interactive, animation-rich experiences u
   <img src="https://img.shields.io/badge/Framer%20Motion-FFC800?style=for-the-badge&logo=framer&logoColor=000000" />
 </p>
 
-### ⚙️ Backend (Supportive skills)
+### ⚙️ Backend
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-FFC800?style=for-the-badge&logo=nodedotjs&logoColor=000000" />
   <img src="https://img.shields.io/badge/Express.js-FFC800?style=for-the-badge&logo=express&logoColor=000000" />
   <img src="https://img.shields.io/badge/PostgreSQL-FFC800?style=for-the-badge&logo=postgresql&logoColor=000000" />
   <img src="https://img.shields.io/badge/MongoDB-FFC800?style=for-the-badge&logo=mongodb&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Prisma-FFC800?style=for-the-badge&logo=prisma&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Redis-FFC800?style=for-the-badge&logo=redis&logoColor=000000" />
 </p>
 
-### 🚀 Tools & Deployment
+### 🤖 AI / ML
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-FFC800?style=for-the-badge&logo=git&logoColor=000000" />
-  <img src="https://img.shields.io/badge/GitHub-FFC800?style=for-the-badge&logo=github&logoColor=000000" />
+  <img src="https://img.shields.io/badge/OpenAI-FFC800?style=for-the-badge&logo=openai&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Anthropic-FFC800?style=for-the-badge&logo=anthropic&logoColor=000000" />
+  <img src="https://img.shields.io/badge/pgvector-FFC800?style=for-the-badge&logoColor=000000" />
+  <img src="https://img.shields.io/badge/RAG-FFC800?style=for-the-badge&logoColor=000000" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-FFC800?style=for-the-badge&logo=docker&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Azure-FFC800?style=for-the-badge&logo=microsoftazure&logoColor=000000" />
   <img src="https://img.shields.io/badge/Vercel-FFC800?style=for-the-badge&logo=vercel&logoColor=000000" />
   <img src="https://img.shields.io/badge/Netlify-FFC800?style=for-the-badge&logo=netlify&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Git-FFC800?style=for-the-badge&logo=git&logoColor=000000" />
+  <img src="https://img.shields.io/badge/GitHub-FFC800?style=for-the-badge&logo=github&logoColor=000000" />
 </p>
+
+### 🧪 Testing
+<p align="left">
+  <img src="https://img.shields.io/badge/Vitest-FFC800?style=for-the-badge&logo=vitest&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Jest-FFC800?style=for-the-badge&logo=jest&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Postman-FFC800?style=for-the-badge&logo=postman&logoColor=000000" />
+</p>
+
+---
+
+## 📜 Certifications
+
+- 🎓 **Complete SQL and Databases Bootcamp** — Udemy (June 2025)
+- 🎓 **Generative AI: Introduction and Applications** — Coursera
+- 🎓 **Generative AI: Prompt Engineering Basics** — Coursera
+- 🎓 **Introduction to Artificial Intelligence (AI)** — Coursera
+
+---
+
+## 🎓 Education
+
+**Dayananda Sagar College of Engineering** — Bengaluru, India  
+Bachelor of Engineering (Civil Engineering) | Aug 2020
 
 ---
 
@@ -138,4 +219,4 @@ I’ve designed and developed multiple interactive, animation-rich experiences u
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsvickyanand&theme=highcontrast" alt="itsvickyanand" />
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFC800&size=20&center=true&vCenter=true&width=1000&lines=Thanks+for+visiting+my+profile+✨;Let%E2%80%99s+build+something+beautiful+on+the+web+⚡" style="width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFC800&size=20&center=true&vCenter=true&width=1000&lines=Thanks+for+visiting+my+profile+✨;Let%E2%80%99s+build+something+amazing+together+⚡" style="width: 100%;">
