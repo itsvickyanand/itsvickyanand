@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Vicky Anand</h1>
 
 <!-- Smooth themed typing banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFC800&size=20&center=true&vCenter=true&width=1000&lines=Hey!+I'm+Vicky+Anand+✨;Full+Stack+Engineer+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Multi-Tenant+SaaS+%7C+Conversational+AI+%7C+RAG+Systems;Building+Scalable+Production+Systems+That+Deliver+⚡" style="width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFC800&size=20&center=true&vCenter=true&width=1000&lines=Hey!+I'm+Vicky+Anand+✨;Full+Stack+Engineer+%7C+Next.js+%7C+Node.js+%7C+TypeScript;AI+%2F+RAG+Systems+%7C+Production+SaaS;Building+Scalable+Systems+That+Ship+⚡" style="width: 100%;">
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<h3 align="center">⚡ Full Stack Engineer | SaaS Architect | AI-Integrated Systems</h3>
+<h3 align="center">⚡ Full Stack Engineer | AI / RAG Systems</h3>
 <h3 align="center">
-3+ years building production SaaS platforms on Next.js, Node.js, PostgreSQL, and TypeScript.<br>
-Architected a multi-tenant conversational AI platform (15K+ LOC) with hybrid RAG retrieval, pgvector semantic search, and omni-channel messaging.<br>
-Led a 5-person team delivering scalable systems serving 50K+ daily users.
+2.5+ years building production SaaS platforms on Next.js, Node.js, PostgreSQL, and TypeScript<br>
+— after transitioning from civil engineering through self-directed learning.<br>
+Built an AI travel platform with a RAG pipeline (pgvector semantic search + Anthropic API),<br>
+and co-developed a production project-management platform end-to-end.
 </h3>
 
 <p align="center">
@@ -26,99 +27,78 @@ Led a 5-person team delivering scalable systems serving 50K+ daily users.
 
 ## ⚡ What I Do
 
-✅ **Full Stack Engineering** — end-to-end ownership from schema design to production deployment  
-✅ **Multi-Tenant SaaS Architecture** — row-level tenant isolation, subscription-based usage limits, RBAC  
-✅ **AI-Integrated Systems** — RAG pipelines (keyword + vector + hybrid retrieval), OpenAI & Anthropic API integration  
-✅ **Omni-Channel Messaging** — WhatsApp, Telegram, Instagram, Messenger via unified adapter interfaces  
-✅ **Voice Integration** — Twilio-powered inbound/outbound calling with speech-to-text & TwiML loops  
-✅ **Frontend Engineering** — pixel-perfect UI, GSAP & Framer Motion animations, SSR/SSG/ISR with Next.js  
-✅ **API Design & Real-Time Systems** — RESTful APIs, WebSockets, SSE, JWT auth, webhook systems  
-✅ **Cloud & DevOps** — Docker, Azure (App Service, Blob Storage, Container Apps), Vercel, Redis, CI/CD
+✅ **Full Stack Engineering** — end-to-end ownership from schema design to production deployment
+✅ **AI-Integrated Systems** — RAG pipelines (keyword + vector + hybrid retrieval), Anthropic & OpenAI API integration, pgvector semantic search
+✅ **Multi-Tenant SaaS** — tenant isolation, RBAC, subscription-based usage limits
+✅ **Frontend Engineering** — responsive UI, GSAP & Framer Motion animations, SSR/SSG/ISR with Next.js
+✅ **API Design & Real-Time Systems** — RESTful APIs, WebSockets, SSE, JWT auth, webhook systems
+✅ **Cloud & DevOps** — Docker, AWS (EC2, S3, Lambda), Azure (App Service, Blob Storage, Container Apps), Vercel, Redis
 
 ---
 
 ## 🔥 Currently Working On
 
-- 🚀 **Zarvis AI** — Multi-tenant conversational AI SaaS platform with hybrid RAG, voice calling, and workflow runtime
-- 🎯 Improving **performance, accessibility (a11y)** and scalable UI/backend patterns
-- 🧠 Exploring **AI-driven experiences** — chat, voice, and workflow automation
+- 🚀 **Atelier** — a full-stack agency project-management platform, in production at Avantus Labs
+- 🤖 **WayFindTrips** — an AI travel platform with RAG-based itinerary generation (Anthropic + pgvector)
+- 🧠 Exploring **AI-driven product experiences** — retrieval, generation, and workflow automation
 
 ---
 
 ## 💼 Work Experience
 
-### R-CENTRIC PVT. LTD. | Senior Full Stack Developer
+### AVANTUS LABS | Senior Full Stack Developer
 📍 Bengaluru, India | Feb 2025 – Present
-- Architected **Zarvis AI**, a multi-tenant conversational AI SaaS (15K+ lines, 100+ files) with Next.js 14, PostgreSQL, Prisma, Docker & Redis
-- Designed a **hybrid RAG retrieval engine** combining keyword search, pgvector semantic search, and reciprocal-rank fusion
-- Implemented **Twilio-powered voice calling** (inbound + outbound) with speech-to-text and TwiML conversation loops
-- Built a **visual workflow runtime** with versioned publish/rollback, graph validation, and full audit trail
-- Led a **5-person engineering team**; reduced cross-project UI development time by ~30%
+- Co-developed **Atelier**, a full-stack agency project-management platform (Next.js, PostgreSQL, Prisma) now in production use across the agency
+- Owned end-to-end delivery across **frontend and backend** — every core module (Kanban, sprint planning, timesheets, quotes, invoicing) plus schema, REST APIs, authentication, and RBAC
+- Built a **reusable component library** and standardized review practices, cutting UI development time across modules by ~30%
 
 ### ANANDPUSHP TECHNOLOGIES PVT. LTD. | Next.js Developer
 📍 Kolkata, India | Feb 2024 – Jan 2025
-- Built SEO-optimized pages on **JobsInEducation** (50K+ daily users) using Next.js SSR/SSG — achieved **90+ Lighthouse scores**
-- Reduced **Largest Contentful Paint by ~40%** across 12 high-traffic pages
-- Implemented SWR-based data-fetching layer, cutting redundant API calls by **~50%**
+- Independently built the complete **Next.js frontend for the inventory and transportation modules** of **Agorae**, a school management platform serving 5,000+ users, and stabilized its authentication flow
+- On **JobsInEducation** (50K+ daily users), built SEO-optimized Next.js SSR/SSG pages achieving **90+ Lighthouse scores** via code-splitting, lazy-loading, and critical CSS extraction
+- Reduced **Largest Contentful Paint by ~40%** across 12 high-traffic pages; implemented an SWR data-fetching layer, cutting redundant API calls by ~50%
 
 ### EFAARMS SOLUTION | React Developer Intern
 📍 Bengaluru, India | Aug 2023 – Jan 2024
-- Built **15+ reusable components** adopted across 4 product modules
-
-### ITECHNOSOL INC. | Node.js Developer Intern
-📍 Vadodara, India | Feb 2023 – Aug 2023
-- Designed **10+ RESTful API endpoints** with Express.js, JWT auth, and role-based middleware
-- Built automated email system handling **1,000+ transactional emails/day**
+- Built authentication flows and core dashboard UI with Context API; created **15+ reusable components** across 4 product modules
 
 ---
 
 ## 🧩 Featured Projects
 
-### 🤖 Zarvis AI — Multi-Tenant Conversational AI Platform
-`Next.js 14` `PostgreSQL` `pgvector` `Prisma` `Docker` `Redis` `Twilio` `OpenAI`
+### 🤖 WayFindTrips — AI Travel Itinerary Platform
+`Next.js` `Node.js` `PostgreSQL` `pgvector` `RAG` `Anthropic API`
 
-Production-grade multi-tenant SaaS with row-level tenant isolation, hybrid RAG retrieval (keyword + vector + hybrid via reciprocal-rank fusion), Twilio voice calling, multi-channel gateway (WhatsApp/Instagram/Messenger/Telegram), media asset library, workflow runtime with graph validation, and SSE real-time dashboard. **15K+ lines, full test suite.**
+Built solo: an AI travel platform that generates personalized itineraries using a RAG pipeline combining pgvector semantic search over a knowledge base with structured database queries. Integrated the Anthropic API with vector-embedding retrieval; built the full stack end-to-end.
 
-🔗 [GitHub](https://github.com/itsvickyanand)
+🔗 [Live](https://wayfindtrips-redesign.vercel.app)
 
-### 📦 AMS — Asset Management System
-`Next.js` `Node.js` `PostgreSQL` `Firebase Auth` `Azure`
+### 🗂️ Atelier — Agency Project Management Platform
+`Next.js` `PostgreSQL` `Prisma` `RBAC`
 
-Full-stack asset tracking platform with Firebase Auth, Sequelize ORM, Azure Blob Storage for document uploads, 3-tier RBAC with protected API routes. Deployed on Azure App Service + Vercel.
-
-🔗 [GitHub](https://github.com/itsvickyanand)
-
-### 📄 OCR Web Application
-`Azure Container Apps` `Azure AI Vision`
-
-Document OCR application deployed on Azure Container Apps, leveraging Azure AI Vision services for text extraction from uploaded images and scanned documents.
-
-### 🏫 Agorae — School Management Platform
-`React` `Node.js` `PostgreSQL` | **Team Lead** | **15+ Schools**
-
-Multi-tenant school management system deployed across 15+ institutions in PAN India, managing student records, attendance, fee collection, and academic scheduling for **5,000+ users** with role-based dashboards.
+Co-developed (2-person) a full-stack project-management platform in production use across the agency — Kanban, sprint planning, timesheets, quotes, and invoicing. Owned both frontend and backend, including schema design, REST APIs, authentication, and role-based access control.
 
 ---
 
 ## 🎬 Animation & Frontend Showcase
 
-Selected live projects showcasing animation-heavy, responsive UI work:
+Selected live client projects showcasing animation-heavy, responsive UI work:
 
-- 🔗 [Alba Destination Microsite](https://alba-destination-microsite-rust.vercel.app) — Next.js, GSAP, Framer Motion  
-- 🔗 [Alba Construction Update](https://alba-construction-update-eight.vercel.app) — Next.js, React, GSAP  
-- 🔗 [Kanyon](https://kanyon.vercel.app) — Next.js, GSAP, Framer Motion  
-- 🔗 [31 Above Updated](https://31-above-updated.vercel.app) — Next.js, React, GSAP  
-- 🔗 [The Mural Frontend](https://the-mural-frontend.vercel.app) — Next.js, React, Tailwind CSS  
-- 🔗 [Alba Sales Gallery](https://alba-sales-gallery.vercel.app) — Next.js, React, GSAP  
+- 🔗 [Kanyon](https://kanyon.vercel.app) — Next.js, GSAP, Framer Motion
+- 🔗 [Alba Destination Microsite](https://alba-destination-microsite-rust.vercel.app) — Next.js, GSAP, Framer Motion
+- 🔗 [Alba Construction Update](https://alba-construction-update-eight.vercel.app) — Next.js, React, GSAP
+- 🔗 [31 Above Updated](https://31-above-updated.vercel.app) — Next.js, React, GSAP
+- 🔗 [The Mural Frontend](https://the-mural-frontend.vercel.app) — Next.js, React, Tailwind CSS
+- 🔗 [Alba Sales Gallery](https://alba-sales-gallery.vercel.app) — Next.js, React, GSAP
 
 ---
 
 ## 🌐 Portfolio & Contact
 
-- 👨‍💻 Portfolio: **https://itsvickyanand.github.io/**
-- 📫 Email: **vickyanandtoprock@gmail.com**
+- 👨‍💻 Portfolio: **https://vicky-fullstack-dev.vercel.app**
+- 📫 Email: **vicky.anand.dev@gmail.com**
 - 📱 Phone: **+91-9739941546**
-- 💬 Ask me about: **Next.js, Node.js, TypeScript, PostgreSQL, RAG Systems, Multi-Tenant SaaS, Twilio, Docker, AI Integration**
+- 💬 Ask me about: **Next.js, Node.js, TypeScript, PostgreSQL, RAG Systems, pgvector, Anthropic API, Docker, Multi-Tenant SaaS**
 
 ---
 
@@ -165,18 +145,24 @@ Selected live projects showcasing animation-heavy, responsive UI work:
 
 ### 🤖 AI / ML
 <p align="left">
-  <img src="https://img.shields.io/badge/OpenAI-FFC800?style=for-the-badge&logo=openai&logoColor=000000" />
   <img src="https://img.shields.io/badge/Anthropic-FFC800?style=for-the-badge&logo=anthropic&logoColor=000000" />
+  <img src="https://img.shields.io/badge/OpenAI-FFC800?style=for-the-badge&logo=openai&logoColor=000000" />
   <img src="https://img.shields.io/badge/pgvector-FFC800?style=for-the-badge&logoColor=000000" />
   <img src="https://img.shields.io/badge/RAG-FFC800?style=for-the-badge&logoColor=000000" />
 </p>
 
+### 🐍 Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-FFC800?style=for-the-badge&logo=python&logoColor=000000" />
+  <img src="https://img.shields.io/badge/SQL-FFC800?style=for-the-badge&logo=postgresql&logoColor=000000" />
+</p>
+
 ### ☁️ Cloud & DevOps
 <p align="left">
-  <img src="https://img.shields.io/badge/Docker-FFC800?style=for-the-badge&logo=docker&logoColor=000000" />
+  <img src="https://img.shields.io/badge/AWS-FFC800?style=for-the-badge&logo=amazonaws&logoColor=000000" />
   <img src="https://img.shields.io/badge/Azure-FFC800?style=for-the-badge&logo=microsoftazure&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Docker-FFC800?style=for-the-badge&logo=docker&logoColor=000000" />
   <img src="https://img.shields.io/badge/Vercel-FFC800?style=for-the-badge&logo=vercel&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Netlify-FFC800?style=for-the-badge&logo=netlify&logoColor=000000" />
   <img src="https://img.shields.io/badge/Git-FFC800?style=for-the-badge&logo=git&logoColor=000000" />
   <img src="https://img.shields.io/badge/GitHub-FFC800?style=for-the-badge&logo=github&logoColor=000000" />
 </p>
@@ -192,16 +178,18 @@ Selected live projects showcasing animation-heavy, responsive UI work:
 
 ## 📜 Certifications
 
+- 🎓 **Python for Data Science, AI & Development** — Coursera
 - 🎓 **Complete SQL and Databases Bootcamp** — Udemy (June 2025)
-- 🎓 **Generative AI: Introduction and Applications** — Coursera
-- 🎓 **Generative AI: Prompt Engineering Basics** — Coursera
-- 🎓 **Introduction to Artificial Intelligence (AI)** — Coursera
+- 🎓 **Developing AI Applications with Python & Flask** — Coursera
 
 ---
 
 ## 🎓 Education
 
-**Dayananda Sagar College of Engineering** — Bengaluru, India  
+**Masai School** — Full Stack Web Development (coursework) | 2022
+_Intensive full-stack coursework (MERN, DSA); exited early to take a developer role._
+
+**Dayananda Sagar College of Engineering** — Bengaluru, India
 Bachelor of Engineering (Civil Engineering) | Aug 2020
 
 ---
